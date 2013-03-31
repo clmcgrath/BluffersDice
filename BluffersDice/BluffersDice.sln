@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{607F8D6E-87A5-4FAD-BB62-1C0D36EA3400}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{48889096-AD39-4C03-A0AF-C13642E94049}"
+	ProjectSection(SolutionItems) = preProject
+		docs\Bluffers Dice Game Requirements.pdf = docs\Bluffers Dice Game Requirements.pdf
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluffersDice.GameEngine.Tests", "BluffersDice.GameEngine.Tests\BluffersDice.GameEngine.Tests.csproj", "{BF496AED-59DB-4C80-A208-FD3DCD12ED17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluffersDice.GameEngine", "BluffersDice.GameEngine\BluffersDice.GameEngine.csproj", "{3153CB52-8757-414A-9A14-9970FBFEFDE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluffersDice.Interface", "BluffersDice.Interface\BluffersDice.Interface.csproj", "{5E6A1E6F-B6C9-4A52-9472-60CBA576B33C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://clmcgrath.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BluffersDice.GameEngine.Tests\\BluffersDice.GameEngine.Tests.csproj
+		SccProjectTopLevelParentUniqueName1 = BluffersDice.sln
+		SccProjectName1 = BluffersDice.GameEngine.Tests
+		SccLocalPath1 = BluffersDice.GameEngine.Tests
+		SccProjectUniqueName2 = BluffersDice.GameEngine\\BluffersDice.GameEngine.csproj
+		SccProjectName2 = BluffersDice.GameEngine
+		SccLocalPath2 = BluffersDice.GameEngine
+		SccProjectUniqueName3 = BluffersDice.Interface\\BluffersDice.Interface.csproj
+		SccProjectName3 = BluffersDice.Interface
+		SccLocalPath3 = BluffersDice.Interface
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF496AED-59DB-4C80-A208-FD3DCD12ED17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF496AED-59DB-4C80-A208-FD3DCD12ED17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF496AED-59DB-4C80-A208-FD3DCD12ED17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF496AED-59DB-4C80-A208-FD3DCD12ED17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3153CB52-8757-414A-9A14-9970FBFEFDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3153CB52-8757-414A-9A14-9970FBFEFDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3153CB52-8757-414A-9A14-9970FBFEFDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3153CB52-8757-414A-9A14-9970FBFEFDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6A1E6F-B6C9-4A52-9472-60CBA576B33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6A1E6F-B6C9-4A52-9472-60CBA576B33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6A1E6F-B6C9-4A52-9472-60CBA576B33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6A1E6F-B6C9-4A52-9472-60CBA576B33C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF496AED-59DB-4C80-A208-FD3DCD12ED17} = {607F8D6E-87A5-4FAD-BB62-1C0D36EA3400}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Chris McGrath\documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Tests\bin\Debug\BluffersDice.Tests.dll
+C:\Users\Chris McGrath\documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Tests\bin\Debug\BluffersDice.Tests.pdb
+C:\Users\Chris McGrath\documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Tests\bin\Debug\BluffersDice.Helpers.dll
+C:\Users\Chris McGrath\documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Tests\bin\Debug\BluffersDice.Helpers.pdb
+C:\Users\Chris McGrath\documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Tests\obj\Debug\BluffersDice.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Chris McGrath\documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Tests\obj\Debug\BluffersDice.Tests.dll
+C:\Users\Chris McGrath\documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Tests\obj\Debug\BluffersDice.Tests.pdb

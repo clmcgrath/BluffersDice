@@ -1,0 +1,41 @@
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\BluffersDice.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\UserTurn.g.cs
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\App.g.cs
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\BluffersDice.Interface_Content.g.cs
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\BluffersDice.Interface_MarkupCompile.cache
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\BluffersDice.Interface_MarkupCompile.lref
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\MainWindow.baml
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\UserTurn.baml
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\BluffersDice.Interface.g.resources
+C:\Users\Chris McGrath\Desktop\BluffersDice.Interface\obj\Debug\BluffersDice.Interface.pdb
+C:\Users\Chris McGrath\documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\BluffersDice.Interface.exe.config
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\res\audio\gameover\gameover2.mp3
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\res\audio\gameover\win1.mp3
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\res\audio\gameover\win2.mp3
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\res\audio\gameover\win3.mp3
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\res\audio\rolls\roll1.wav
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\res\audio\rolls\roll2.mp3
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\res\audio\rolls\roll3.mp3
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\BluffersDice.Interface.exe
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\BluffersDice.Interface.pdb
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\BluffersDice.GameEngine.dll
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\bin\Debug\BluffersDice.GameEngine.pdb
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\BluffersDice.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\Controls\DieButton2.g.cs
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\UserTurn.g.cs
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\App.g.cs
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\BluffersDice.Interface_Content.g.cs
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\BluffersDice.Interface_MarkupCompile.cache
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\BluffersDice.Interface_MarkupCompile.lref
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\Controls\DieButton2.baml
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\MainWindow.baml
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\UserTurn.baml
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\BluffersDice.Interface.g.resources
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\BluffersDice.Interface.Properties.Resources.resources
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\BluffersDice.Interface.csproj.GenerateResource.Cache
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\BluffersDice.Interface.exe
+C:\Users\Chris McGrath\Documents\visual studio 2012\Projects\BluffersDice\BluffersDice.Interface\obj\Debug\BluffersDice.Interface.pdb

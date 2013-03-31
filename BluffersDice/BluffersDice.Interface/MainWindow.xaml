@@ -1,0 +1,96 @@
+﻿<Window xmlns:CustomControls="clr-namespace:BluffersDice.Interface.CustomControls"  x:Class="BluffersDice.Interface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bluffer's Dice" 
+        Height="419" Width="644.965"  WindowState="Maximized" 
+        Icon="/res/dice/6.png">
+
+
+    <Window.Background>
+        <ImageBrush TileMode="Tile" ImageSource="res/ui/Felt-Green.jpg"></ImageBrush>
+    </Window.Background>
+    <Window.Resources>
+        <Style  TargetType="CustomControls:OutlinedTextBlock">
+            <Setter Property="Stroke" Value="Black"/>
+            <Setter Property="StrokeThickness" Value="0.3"/>
+            <Setter Property="Fill" Value="White"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+        </Style>
+    </Window.Resources>
+    <Grid >
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="200*"/>
+            <RowDefinition Height="86*"/>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="37*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="300*"/>
+            <ColumnDefinition Width="200*"/>
+        </Grid.ColumnDefinitions>
+        <Viewbox Grid.Column="1">
+            <CustomControls:OutlinedTextBlock x:Name="lbl_RoundNumber" Margin="20,10,10,0" Text=" Round {0} "/>
+        </Viewbox>
+        <Viewbox  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,0,0,0" >
+            <CustomControls:OutlinedTextBlock Text="Player 1" TextWrapping="Wrap" HorizontalAlignment="Left" Width="44"/>
+        </Viewbox>
+        <Viewbox Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,0,15,0">
+            <CustomControls:OutlinedTextBlock  Text="Player 2" />
+        </Viewbox>
+        <Viewbox Grid.Row="1" HorizontalAlignment="Left" Margin="15,0,0,0" VerticalAlignment="Top">
+            <CustomControls:OutlinedTextBlock x:Name="lbl_Player1Score" Text="0" HorizontalAlignment="Left" StrokeThickness="0.15"/>
+        </Viewbox>
+        <Viewbox Grid.Column="2" Grid.Row="1" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="15,0">
+            <CustomControls:OutlinedTextBlock x:Name="lbl_Player2Score" Text="0" StrokeThickness="0.1"/>
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.Row="3">
+            <StackPanel Orientation="Horizontal">
+                <Button Name="btn_StartTurn" Click="btn_StartTurn_Click" Margin="0,0,2.5,0" >
+                    <Label Content="Player {0}'s Turn" Name="btn_lbl_TakeTurnButtonText" FontSize="5" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" />
+                </Button>
+
+
+            </StackPanel>
+        </Viewbox>
+
+        <Viewbox Grid.Column="1" Grid.Row="1"  Name="vbox_GameOver" Grid.RowSpan="2" >
+
+            <StackPanel HorizontalAlignment="Center">
+
+                <Viewbox>
+                    <CustomControls:OutlinedTextBlock Text="Game Over"/>
+                </Viewbox>
+                <Viewbox>
+                    <CustomControls:OutlinedTextBlock Text="Winner:"/>
+                </Viewbox>
+                <Viewbox>
+                    <CustomControls:OutlinedTextBlock x:Name="lbl_WinnerText"  Text=" "/>
+                </Viewbox>
+            </StackPanel>
+        </Viewbox>
+
+        <Viewbox Grid.Column="1" Grid.Row="1"  Name="vbox_ClaimControl" Grid.RowSpan="2">
+            <StackPanel    Margin="0,60,0,60" HorizontalAlignment="Center">
+                <Viewbox>
+                    <CustomControls:OutlinedTextBlock Text="Must Beat" FontSize="30" TextDecorations="Underline"/>
+                </Viewbox>
+
+                <StackPanel Name="pnl_ClaimDice" />
+                <Viewbox>
+                    <CustomControls:OutlinedTextBlock FontSize="20" x:Name="lbl_ClaimValue" Text=" {Claim Value} "/>
+                </Viewbox>
+                <Viewbox MinHeight="50">
+                    <Button Name="btn_ChallengeClaim"  Margin="0,6,0,0" Click="btn_ChallengeClaim_Click">
+                        <Label Content="Challenge Claim"  FontSize="5" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" />
+                    </Button>
+                </Viewbox>
+            </StackPanel>
+
+        </Viewbox>
+
+    </Grid>
+</Window>
